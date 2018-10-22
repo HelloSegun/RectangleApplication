@@ -10,24 +10,28 @@ namespace RectangleApplication.Practises
     {
         static void Main(string[] args)
         {
+            /*
             Employee empOne = new Employee("TomTom");
+            Employee empTwo = new Employee("SatNav");
+
             empOne.setSalary(1000);
             empOne.printEmp();
+            
+            empTwo.setSalary(2000);
+            empTwo.printEmp();
+            */
 
-            /*
             Rectangle rec = new Rectangle();
             rec.Values(10.56, 5.35);
-            Console.WriteLine("Area of the Rectangle");
-            Console.WriteLine(rec.GetArea());
-            Console.ReadKey();
-            */
-      
+            rec.Display();
+
             /*
             ExplicitConversion conv = new ExplicitConversion();
             conv.Explicit_Conversion(456.97f, 45);
             conv.Explicit_Conversion_Result();
-            Console.ReadKey();
             */
+
+            Console.ReadKey();
         }
     }
 
@@ -43,10 +47,15 @@ namespace RectangleApplication.Practises
         }
 
         public double GetArea()
-        {
-            Console.WriteLine("Length of Rectangle: " + length);
-            Console.WriteLine("Width of Rectangle: " + width);
+        { 
             return length * width;
+        }
+
+        public void Display()
+        {
+            Console.WriteLine("Length of Rectangle: {0}", length);
+            Console.WriteLine("Width of Rectangle: {0}", width);
+            Console.WriteLine("Area of Rectangle: {0}", GetArea());
         }
     }
 }

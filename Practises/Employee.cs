@@ -24,8 +24,8 @@ namespace RectangleApplication.Practises
         public void printEmp()
         {
             Console.WriteLine("name : " + name);
-            Console.WriteLine("salary : " + salary);
-            Console.ReadLine();
+            Console.WriteLine("salary : {0}", salary);
+            //Console.ReadKey();
         }
     }
 }

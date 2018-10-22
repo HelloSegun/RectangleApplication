@@ -1,7 +1,6 @@
-C:\Users\skuye\source\repos\RectangleApplication\RectangleApplication\obj\Debug\PractisesProject.csproj.CoreCompileInputs.cache
-C:\Users\skuye\source\repos\RectangleApplication\RectangleApplication\obj\Debug\RectangleApplication.exe
-C:\Users\skuye\source\repos\RectangleApplication\RectangleApplication\obj\Debug\RectangleApplication.pdb
 C:\Users\skuye\source\repos\RectangleApplication\RectangleApplication\bin\Debug\RectangleApplication.exe.config
 C:\Users\skuye\source\repos\RectangleApplication\RectangleApplication\bin\Debug\RectangleApplication.exe
 C:\Users\skuye\source\repos\RectangleApplication\RectangleApplication\bin\Debug\RectangleApplication.pdb
-C:\Users\skuye\source\repos\RectangleApplication\RectangleApplication\obj\Debug\PractisesProject.csprojResolveAssemblyReference.cache
+C:\Users\skuye\source\repos\RectangleApplication\RectangleApplication\obj\Debug\PractisesProject.csproj.CoreCompileInputs.cache
+C:\Users\skuye\source\repos\RectangleApplication\RectangleApplication\obj\Debug\RectangleApplication.exe
+C:\Users\skuye\source\repos\RectangleApplication\RectangleApplication\obj\Debug\RectangleApplication.pdb
